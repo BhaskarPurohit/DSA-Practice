@@ -1,0 +1,10 @@
+*{
+    background-color: aqua;
+
+}
+
+.line{
+    padding: 12px ;
+    background-color: beige;
+    border: 2px solid yellow;
+}
